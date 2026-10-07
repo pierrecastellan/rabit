@@ -1,0 +1,7 @@
+r
+h
+erase
+loadbin /home/pierre/rabit/firmware.bin 0x08000000
+r
+exit
+
